@@ -1,0 +1,11 @@
+2025-03-26-17-15 [background-preinit] [org.hibernate.validator.internal.util.Version] [INFO] - HV000001: Hibernate Validator 6.0.17.Final
+2025-03-26-17-15 [main] [com.mayikt.App] [INFO] - Starting App on Mac-mini-2.local with PID 39166 (/Volumes/SN580/code/springboot-learn/code/code5/mayikt-thymeleaf/target/classes started by chzheng in /Volumes/SN580/code/springboot-learn)
+2025-03-26-17-15 [main] [com.mayikt.App] [INFO] - The following profiles are active: prd
+2025-03-26-17-15 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat initialized with port(s): 8081 (http)
+2025-03-26-17-15 [main] [org.springframework.web.context.ContextLoader] [INFO] - Root WebApplicationContext: initialization completed in 376 ms
+2025-03-26-17-15 [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] [INFO] - Initializing ExecutorService 'taskExecutor'
+2025-03-26-17-15 [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler] [INFO] - Initializing ExecutorService 'taskScheduler'
+2025-03-26-17-15 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat started on port(s): 8081 (http) with context path '/mayikt'
+2025-03-26-17-15 [main] [com.mayikt.App] [INFO] - Started App in 0.723 seconds (JVM running for 0.891)
+2025-03-26-17-19 [Thread-4] [org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler] [INFO] - Shutting down ExecutorService 'taskScheduler'
+2025-03-26-17-19 [Thread-4] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] [INFO] - Shutting down ExecutorService 'taskExecutor'

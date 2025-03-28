@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/code/code2/mayikt-thymeleaf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/code2/springboot-helloworld/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/code3/mayikt-thymeleaf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/code4/mayikt-thymeleaf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/code5/mayikt-thymeleaf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/springboot-helloworld/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/整合logback/mayikt-thymeleaf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-helloworld/src/main/java" charset="UTF-8" />
+  </component>
+</project>
