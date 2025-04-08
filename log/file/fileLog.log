@@ -1,0 +1,17 @@
+2025-04-08 07:37:34,826 INFO (StartupInfoLogger.java:50)- Starting App on MacBook-Pro2020-2.local with PID 94752 (/Volumes/sn770/code/springboot-learn/springboot-helloworld/target/classes started by apple in /Volumes/sn770/code/springboot-learn)
+2025-04-08 07:37:34,831 INFO (SpringApplication.java:652)- The following profiles are active: test
+2025-04-08 07:37:37,779 INFO (TomcatWebServer.java:90)- Tomcat initialized with port(s): 8086 (http)
+2025-04-08 07:37:37,809 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8086"]
+2025-04-08 07:37:37,843 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2025-04-08 07:37:37,844 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.24]
+2025-04-08 07:37:38,033 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2025-04-08 07:37:38,036 INFO (ServletWebServerApplicationContext.java:284)- Root WebApplicationContext: initialization completed in 3088 ms
+2025-04-08 07:37:39,060 INFO (ExecutorConfigurationSupport.java:171)- Initializing ExecutorService 'applicationTaskExecutor'
+2025-04-08 07:37:40,454 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8086"]
+2025-04-08 07:37:40,523 INFO (TomcatWebServer.java:202)- Tomcat started on port(s): 8086 (http) with context path '/test'
+2025-04-08 07:37:40,530 INFO (StartupInfoLogger.java:59)- Started App in 6.665 seconds (JVM running for 7.522)
+2025-04-08 07:37:50,022 INFO (DirectJDKLog.java:173)- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-08 07:37:50,023 INFO (FrameworkServlet.java:524)- Initializing Servlet 'dispatcherServlet'
+2025-04-08 07:37:50,040 INFO (FrameworkServlet.java:546)- Completed initialization in 16 ms
+2025-04-08 07:37:50,288 INFO (MyIndexService.java:28)- testUserEntity:TestUserEntity{name='test.test', age=41, address='shanghai'}
+2025-04-08 08:13:16,382 INFO (ExecutorConfigurationSupport.java:208)- Shutting down ExecutorService 'applicationTaskExecutor'

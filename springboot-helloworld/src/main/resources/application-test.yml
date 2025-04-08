@@ -1,11 +1,9 @@
 test:
-  name: test
+  name: test.test
   age: ${random.int(10,100)}
-  address: beijing
+  address: shanghai
 server:
   port: 8086
-  servlet:
-    context-path: /test
 spring:
   http:
     encoding:
@@ -29,7 +27,4 @@ spring:
       password: 123456
       driver-class-name: com.mysql.jdbc.Driver
 
-  profiles:
-    active: test
-logging:
-  config: classpath:log4j.properties
+
