@@ -1,17 +1,69 @@
-2025-04-08 07:37:34,826 INFO (StartupInfoLogger.java:50)- Starting App on MacBook-Pro2020-2.local with PID 94752 (/Volumes/sn770/code/springboot-learn/springboot-helloworld/target/classes started by apple in /Volumes/sn770/code/springboot-learn)
-2025-04-08 07:37:34,831 INFO (SpringApplication.java:652)- The following profiles are active: test
-2025-04-08 07:37:37,779 INFO (TomcatWebServer.java:90)- Tomcat initialized with port(s): 8086 (http)
-2025-04-08 07:37:37,809 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8086"]
-2025-04-08 07:37:37,843 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
-2025-04-08 07:37:37,844 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.24]
-2025-04-08 07:37:38,033 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
-2025-04-08 07:37:38,036 INFO (ServletWebServerApplicationContext.java:284)- Root WebApplicationContext: initialization completed in 3088 ms
-2025-04-08 07:37:39,060 INFO (ExecutorConfigurationSupport.java:171)- Initializing ExecutorService 'applicationTaskExecutor'
-2025-04-08 07:37:40,454 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8086"]
-2025-04-08 07:37:40,523 INFO (TomcatWebServer.java:202)- Tomcat started on port(s): 8086 (http) with context path '/test'
-2025-04-08 07:37:40,530 INFO (StartupInfoLogger.java:59)- Started App in 6.665 seconds (JVM running for 7.522)
-2025-04-08 07:37:50,022 INFO (DirectJDKLog.java:173)- Initializing Spring DispatcherServlet 'dispatcherServlet'
-2025-04-08 07:37:50,023 INFO (FrameworkServlet.java:524)- Initializing Servlet 'dispatcherServlet'
-2025-04-08 07:37:50,040 INFO (FrameworkServlet.java:546)- Completed initialization in 16 ms
-2025-04-08 07:37:50,288 INFO (MyIndexService.java:28)- testUserEntity:TestUserEntity{name='test.test', age=41, address='shanghai'}
-2025-04-08 08:13:16,382 INFO (ExecutorConfigurationSupport.java:208)- Shutting down ExecutorService 'applicationTaskExecutor'
+2025-04-09 05:47:44,329 INFO (StartupInfoLogger.java:50)- Starting App on MacBook-Pro2020-2.local with PID 93720 (/Volumes/sn770/code/springboot-learn/springboot-helloworld/target/classes started by apple in /Volumes/sn770/code/springboot-learn)
+2025-04-09 05:47:44,335 INFO (SpringApplication.java:652)- The following profiles are active: test
+2025-04-09 05:47:45,699 WARN (ClassPathMapperScanner.java:167)- No MyBatis mapper was found in '[com.test]' package. Please check your configuration.
+2025-04-09 05:47:47,057 INFO (TomcatWebServer.java:90)- Tomcat initialized with port(s): 8086 (http)
+2025-04-09 05:47:47,079 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8086"]
+2025-04-09 05:47:47,091 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2025-04-09 05:47:47,092 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.24]
+2025-04-09 05:47:47,235 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2025-04-09 05:47:47,236 INFO (ServletWebServerApplicationContext.java:284)- Root WebApplicationContext: initialization completed in 2808 ms
+2025-04-09 05:47:47,822 INFO (ExecutorConfigurationSupport.java:171)- Initializing ExecutorService 'applicationTaskExecutor'
+2025-04-09 05:47:48,913 INFO (ExecutorConfigurationSupport.java:171)- Initializing ExecutorService 'taskScheduler'
+2025-04-09 05:47:49,003 INFO (ScheduledTasks.java:13)- 定时任务1744148869003
+2025-04-09 05:47:49,005 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8086"]
+2025-04-09 05:47:49,047 INFO (TomcatWebServer.java:202)- Tomcat started on port(s): 8086 (http) with context path '/test'
+2025-04-09 05:47:49,051 INFO (StartupInfoLogger.java:59)- Started App in 5.845 seconds (JVM running for 6.587)
+2025-04-09 05:47:52,007 INFO (ScheduledTasks.java:13)- 定时任务1744148872007
+2025-04-09 05:47:55,006 INFO (ScheduledTasks.java:13)- 定时任务1744148875006
+2025-04-09 05:47:58,007 INFO (ScheduledTasks.java:13)- 定时任务1744148878007
+2025-04-09 05:48:01,007 INFO (ScheduledTasks.java:13)- 定时任务1744148881007
+2025-04-09 05:48:04,004 INFO (ScheduledTasks.java:13)- 定时任务1744148884004
+2025-04-09 05:48:07,006 INFO (ScheduledTasks.java:13)- 定时任务1744148887006
+2025-04-09 05:48:10,007 INFO (ScheduledTasks.java:13)- 定时任务1744148890007
+2025-04-09 05:48:13,007 INFO (ScheduledTasks.java:13)- 定时任务1744148893007
+2025-04-09 05:48:16,004 INFO (ScheduledTasks.java:13)- 定时任务1744148896004
+2025-04-09 05:48:19,008 INFO (ScheduledTasks.java:13)- 定时任务1744148899008
+2025-04-09 05:48:22,007 INFO (ScheduledTasks.java:13)- 定时任务1744148902007
+2025-04-09 05:48:25,006 INFO (ScheduledTasks.java:13)- 定时任务1744148905006
+2025-04-09 05:48:28,008 INFO (ScheduledTasks.java:13)- 定时任务1744148908008
+2025-04-09 05:48:31,008 INFO (ScheduledTasks.java:13)- 定时任务1744148911008
+2025-04-09 05:48:34,005 INFO (ScheduledTasks.java:13)- 定时任务1744148914005
+2025-04-09 05:48:37,006 INFO (ScheduledTasks.java:13)- 定时任务1744148917006
+2025-04-09 05:48:40,006 INFO (ScheduledTasks.java:13)- 定时任务1744148920006
+2025-04-09 05:48:43,007 INFO (ScheduledTasks.java:13)- 定时任务1744148923007
+2025-04-09 05:48:46,007 INFO (ScheduledTasks.java:13)- 定时任务1744148926007
+2025-04-09 05:48:48,410 INFO (DirectJDKLog.java:173)- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-09 05:48:48,411 INFO (FrameworkServlet.java:524)- Initializing Servlet 'dispatcherServlet'
+2025-04-09 05:48:48,473 INFO (FrameworkServlet.java:546)- Completed initialization in 57 ms
+2025-04-09 05:48:48,526 INFO (MemberService.java:27)- >01<
+2025-04-09 05:48:48,527 INFO (MemberService.java:34)- >02<
+2025-04-09 05:48:48,528 INFO (MemberService.java:36)- >senting<
+2025-04-09 05:48:49,007 INFO (ScheduledTasks.java:13)- 定时任务1744148929007
+2025-04-09 05:48:52,009 INFO (ScheduledTasks.java:13)- 定时任务1744148932009
+2025-04-09 05:48:53,532 INFO (MemberService.java:41)- >03<
+2025-04-09 05:48:53,532 INFO (MemberService.java:29)- >04<
+2025-04-09 05:48:55,006 INFO (ScheduledTasks.java:13)- 定时任务1744148935006
+2025-04-09 05:48:58,008 INFO (ScheduledTasks.java:13)- 定时任务1744148938008
+2025-04-09 05:49:00,078 INFO (ExecutorConfigurationSupport.java:208)- Shutting down ExecutorService 'taskScheduler'
+2025-04-09 05:49:00,080 INFO (ExecutorConfigurationSupport.java:208)- Shutting down ExecutorService 'applicationTaskExecutor'
+2025-04-09 05:51:37,001 INFO (StartupInfoLogger.java:50)- Starting App on MacBook-Pro2020-2.local with PID 94169 (/Volumes/sn770/code/springboot-learn/springboot-helloworld/target/classes started by apple in /Volumes/sn770/code/springboot-learn)
+2025-04-09 05:51:37,006 INFO (SpringApplication.java:652)- The following profiles are active: test
+2025-04-09 05:51:38,503 WARN (ClassPathMapperScanner.java:167)- No MyBatis mapper was found in '[com.test]' package. Please check your configuration.
+2025-04-09 05:51:40,289 INFO (TomcatWebServer.java:90)- Tomcat initialized with port(s): 8086 (http)
+2025-04-09 05:51:40,352 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8086"]
+2025-04-09 05:51:40,389 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2025-04-09 05:51:40,390 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.24]
+2025-04-09 05:51:40,637 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2025-04-09 05:51:40,640 INFO (ServletWebServerApplicationContext.java:284)- Root WebApplicationContext: initialization completed in 3546 ms
+2025-04-09 05:51:41,708 INFO (ExecutorConfigurationSupport.java:171)- Initializing ExecutorService 'applicationTaskExecutor'
+2025-04-09 05:51:42,965 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8086"]
+2025-04-09 05:51:43,017 INFO (TomcatWebServer.java:202)- Tomcat started on port(s): 8086 (http) with context path '/test'
+2025-04-09 05:51:43,021 INFO (StartupInfoLogger.java:59)- Started App in 7.353 seconds (JVM running for 8.264)
+2025-04-09 05:51:53,258 INFO (DirectJDKLog.java:173)- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-09 05:51:53,259 INFO (FrameworkServlet.java:524)- Initializing Servlet 'dispatcherServlet'
+2025-04-09 05:51:53,293 INFO (FrameworkServlet.java:546)- Completed initialization in 32 ms
+2025-04-09 05:51:53,362 INFO (MemberService.java:27)- >01<
+2025-04-09 05:51:53,365 INFO (MemberService.java:40)- >02<
+2025-04-09 05:51:53,365 INFO (MemberService.java:42)- >senting<
+2025-04-09 05:51:53,365 INFO (MemberService.java:35)- >04<
+2025-04-09 05:51:58,369 INFO (MemberService.java:47)- >03<

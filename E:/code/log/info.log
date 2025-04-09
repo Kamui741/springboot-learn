@@ -1,0 +1,2 @@
+2025-04-08-11-37 [Thread-12] [org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler] [INFO] - Shutting down ExecutorService 'taskScheduler'
+2025-04-08-11-37 [Thread-12] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] [INFO] - Shutting down ExecutorService 'taskExecutor'

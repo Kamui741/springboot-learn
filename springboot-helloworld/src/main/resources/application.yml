@@ -32,4 +32,4 @@ spring:
   profiles:
     active: test
 logging:
-  config: classpath:log4j.properties
+  config: classpath:./log/logback.xml
